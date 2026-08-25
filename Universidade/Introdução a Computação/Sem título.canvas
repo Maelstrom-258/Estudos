@@ -1,0 +1,34 @@
+{
+	"nodes":[
+		{"id":"0f4e9137c548e085","x":-1245,"y":-880,"width":1480,"height":840,"type":"group","label":"Interface Motorista"},
+		{"id":"9d7cb7d076635380","x":-740,"y":-560,"width":260,"height":140,"color":"3","type":"text","text":"Definição de horários de almoço e inatividade, tal qual configurações básicas do aplicativo."},
+		{"id":"0442c4b8d451e412","x":-735,"y":-280,"width":250,"height":60,"color":"5","type":"text","text":"Início de Turno"},
+		{"id":"63c50f424e5f0c68","x":-735,"y":-140,"width":250,"height":80,"color":"4","type":"text","text":"# Ticks de Localização"},
+		{"id":"80793df935e44ee5","x":-1100,"y":-520,"width":250,"height":60,"color":"2","type":"text","text":"Dentro do horário definido\n"},
+		{"id":"bd00775b41643a68","x":-1225,"y":-712,"width":250,"height":60,"color":"1","type":"text","text":"Determinar ônibus como INATIVO"},
+		{"id":"27544a7b9200f4d1","x":-975,"y":-712,"width":250,"height":60,"color":"1","type":"text","text":"Determinar ônibus como EM PAUSA"},
+		{"id":"8bba2ed6e78a92ee","x":-605,"y":-860,"width":250,"height":60,"color":"4","type":"text","text":"# Estados do ônibus"},
+		{"id":"82ae4801106438f5","x":-285,"y":-480,"width":250,"height":60,"color":"2","type":"text","text":"Se a localização não mudar entre um Tick e outro;"},
+		{"id":"f7d5c108530c2de0","x":-285,"y":-682,"width":250,"height":60,"color":"1","type":"text","text":"Determinar ônibus como PARADO"},
+		{"id":"1d4b6fd05ead1c64","x":-35,"y":-480,"width":250,"height":60,"color":"2","type":"text","text":"Se a localização mudar entre um Tick e outro;"},
+		{"id":"0b8a6e4a87b6f852","x":-35,"y":-682,"width":250,"height":60,"color":"1","type":"text","text":"Determinar ônibus como MOVENDO"},
+		{"id":"ce9a45090c48a89a","x":-460,"y":-682,"width":140,"height":90,"color":"3","type":"text","text":"Autenticação do Motorista\n"}
+	],
+	"edges":[
+		{"id":"f846e5ebcb6ce166","fromNode":"ce9a45090c48a89a","fromSide":"left","toNode":"9d7cb7d076635380","toSide":"top"},
+		{"id":"7530a186978eb98f","fromNode":"9d7cb7d076635380","fromSide":"bottom","toNode":"0442c4b8d451e412","toSide":"top"},
+		{"id":"bb0f930708dc0030","fromNode":"ce9a45090c48a89a","fromSide":"bottom","toNode":"0442c4b8d451e412","toSide":"right"},
+		{"id":"d206abf4f6601c74","fromNode":"0442c4b8d451e412","fromSide":"bottom","toNode":"63c50f424e5f0c68","toSide":"top"},
+		{"id":"4e9a0ace2f4057ea","fromNode":"63c50f424e5f0c68","fromSide":"right","toNode":"82ae4801106438f5","toSide":"bottom"},
+		{"id":"6d264b2bb389457b","fromNode":"82ae4801106438f5","fromSide":"top","toNode":"f7d5c108530c2de0","toSide":"bottom"},
+		{"id":"029f594d17bbac58","fromNode":"1d4b6fd05ead1c64","fromSide":"top","toNode":"0b8a6e4a87b6f852","toSide":"bottom"},
+		{"id":"abbe138520dae963","fromNode":"63c50f424e5f0c68","fromSide":"right","toNode":"1d4b6fd05ead1c64","toSide":"bottom"},
+		{"id":"4b48c10af62feb47","fromNode":"9d7cb7d076635380","fromSide":"left","toNode":"80793df935e44ee5","toSide":"right"},
+		{"id":"eaf18409d6cc8913","fromNode":"80793df935e44ee5","fromSide":"top","toNode":"bd00775b41643a68","toSide":"bottom"},
+		{"id":"3ede85e17b277871","fromNode":"80793df935e44ee5","fromSide":"top","toNode":"27544a7b9200f4d1","toSide":"bottom"},
+		{"id":"5dbb8c513afae5b4","fromNode":"bd00775b41643a68","fromSide":"top","toNode":"8bba2ed6e78a92ee","toSide":"left"},
+		{"id":"37d1605fdd3c8bd3","fromNode":"27544a7b9200f4d1","fromSide":"top","toNode":"8bba2ed6e78a92ee","toSide":"left"},
+		{"id":"2bec774bae96f4ba","fromNode":"f7d5c108530c2de0","fromSide":"top","toNode":"8bba2ed6e78a92ee","toSide":"right"},
+		{"id":"5fb4db4931904738","fromNode":"0b8a6e4a87b6f852","fromSide":"top","toNode":"8bba2ed6e78a92ee","toSide":"right"}
+	]
+}
