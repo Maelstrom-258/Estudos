@@ -83,52 +83,37 @@ Considere os seguintes requisitos:
 - O projeto deve ser suficientemente simples para servir como uma primeira versão funcional do sistema, mas deve permitir evolução futura.
 - Considere acessibilidade, facilidade de uso e clareza da interface como requisitos importantes.
 
-## 6. Planejamento administrativo e fluxo de desenvolvimento
+## Planejamento administrativo e fluxo de desenvolvimento
 
 Organize o desenvolvimento utilizando quatro etapas principais:
-
 ### Planejamento
 
 Defina o problema, objetivos, requisitos funcionais e não funcionais, usuários, arquitetura inicial, riscos e prioridades do projeto.
-
 ### Organização
 
 Defina a divisão das funcionalidades, componentes do sistema, tecnologias necessárias, estrutura do banco de dados, organização da equipe e sequência de implementação.
-
 ### Desenvolvimento
 
 Apresente as etapas de implementação do aplicativo, incluindo desenvolvimento da interface do motorista, interface do passageiro, backend, banco de dados, comunicação em tempo real, integração com mapas, autenticação e sistema de estimativa de chegada e lotação.
-
 ### Controle
 
 Defina como o sistema deverá ser testado e validado. Inclua testes funcionais, testes de localização, testes de comunicação em tempo real, testes de desempenho, consumo de bateria, conectividade instável, segurança, privacidade e testes das estimativas de chegada e lotação. Indique também como erros encontrados deverão ser identificados, corrigidos e posteriormente testados novamente.
 
-## 7. Tecnologias
+## Tecnologias
 
 Apresente uma lista das tecnologias, linguagens, frameworks, bibliotecas, serviços e ferramentas recomendadas para implementar o projeto.
 
 Justifique brevemente a escolha de cada tecnologia, especialmente para:
-
 - Desenvolvimento mobile multiplataforma;
-    
 - GPS e localização em segundo plano;
-    
 - Backend;
-    
 - Banco de dados;
-    
 - Comunicação em tempo real;
-    
 - Autenticação;
-    
 - Mapas;
-    
 - Cálculo de rotas e estimativa de chegada;
-    
 - Hospedagem e infraestrutura;
-    
 - Monitoramento e testes.
-    
 
 Apresente também pelo menos uma alternativa tecnológica relevante para os principais componentes e compare suas vantagens e desvantagens.
 
