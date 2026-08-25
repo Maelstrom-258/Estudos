@@ -14,3 +14,4 @@ Para 8 bits: 0 a 255. utilizado para endereços de memória e contadores de laç
 
 ## Alcance com sinalização
 
+$$[$$
