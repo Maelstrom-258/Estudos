@@ -1,3 +1,4 @@
+## Conceitos
 Byte: Conjunto de 8 bits
 Word: Conjunto de bytes (32 ou 64 bits) processados simultaneamente pela CPU
 
@@ -12,4 +13,3 @@ Alcance: $$
 Para 8 bits: 0 a 255. utilizado para endereços de memória e contadores de laços.
 0
 
-## Alcance com sinalização
