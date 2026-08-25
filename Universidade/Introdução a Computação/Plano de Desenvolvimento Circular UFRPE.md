@@ -62,6 +62,7 @@ Celular do passageiro.
 Explique também quais dados devem ser armazenados, quais dados devem ser transmitidos em tempo real e quais informações podem ser calculadas sob demanda.
 
 ## Plataformas
+
 O aplicativo deverá ser desenvolvido para dispositivos móveis, com suporte tanto para Android quanto para iOS.
 
 Priorize uma arquitetura que permita **compartilhar o máximo possível do código** entre as duas plataformas, reduzindo custos e complexidade de desenvolvimento.
