@@ -39,7 +39,6 @@ O motorista deverá possuir algumas opções de configuração do funcionamento 
 - Informar a capacidade máxima de passageiros do ônibus circular.
 
 Os dados principais fornecidos por essa interface serão latitude, longitude, horário da atualização, identificação do ônibus/motorista e estado de funcionamento do veículo.
-
 ## Interface do passageiro
 
 A interface do passageiro deverá permitir acompanhar o circular de maneira simples e visual.
@@ -53,8 +52,7 @@ Suas principais funcionalidades deverão incluir:
 - Exibir uma estimativa da lotação atual do ônibus.
 - Informar a capacidade máxima do circular e comparar essa capacidade com a quantidade estimada de passageiros.
 
-Para a estimativa de lotação, considere como hipótese que a localização do celular dos passageiros, quando estiver próxima dos ticks de localiza, possa ser utilizada para inferir a entrada ou saída de passageiros do ônibus. Analise essa abordagem e indique no plano possíveis limitações, riscos de privacidade, imprecisões e alternativas técnicas mais confiáveis.
-
+Para a estimativa de lotação, considere como hipótese que a localização do celular dos passageiros, quando estiver próxima dos últimos "Ticks" de localização do motorista, possa ser utilizada para inferir a quantia de passageiros no ônibus.
 ## Dados e funcionamento do sistema (Infraestrutura)
 
 Considere que o aplicativo precisará possuir uma infraestrutura responsável por receber, armazenar, processar e distribuir os dados enviados pelos celulares dos motoristas para os passageiros.
