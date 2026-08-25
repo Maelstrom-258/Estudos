@@ -56,13 +56,11 @@ Esse vetor AB é a diferença entre OB e OA
 ## Exercício 1
 
 Parte 1: Operações com vetores
-\begin{itemize}
-\item[2)] Dados os vetores $\overrightarrow{\mathrm{u}}=(3,-1)$ e $\overrightarrow{\mathrm{v}}=(-1,2)$, determinar o vetor $\overrightarrow{\mathrm{w}}$ tal que
-\begin{itemize}
-\item[a)] $4(\overrightarrow{\mathrm{u}}-\overrightarrow{\mathrm{v}})+\frac{1}{3} \overrightarrow{\mathrm{w}}=2 \overrightarrow{\mathrm{u}}-\overrightarrow{\mathrm{w}}$
-\item[b)] $3 \overrightarrow{\mathrm{w}}-(2 \overrightarrow{\mathrm{v}}-\overrightarrow{\mathrm{u}})=2(4 \overrightarrow{\mathrm{w}}-3 \overrightarrow{\mathrm{u}})$
-\end{itemize}
-\item[3)] Dados os pontos $A(-1,3), B(2,5)$ e $C(3,-1)$, calcular $\overrightarrow{O A}-\overrightarrow{A B}, \overrightarrow{O C}-\overrightarrow{B C}$ e $3 \overrightarrow{B A}-4 \overrightarrow{C B}$.
-\item[4)] Dados os vetores $\overrightarrow{\mathrm{u}}=(3,-4)$ e $\overrightarrow{\mathrm{v}}=\left(-\frac{9}{4}, 3\right)$, verificar se existem números a e b tais que $\vec{u}=a \vec{v}$ e $\vec{v}=b \vec{u}$.
-\item[5)] Dados os vetores $\vec{u}=(2,-4), \vec{v}=(-5,1)$ e $\vec{w}=(-12,6)$, determinar $k_1$ e $k_2$ tal que $\overrightarrow{\mathrm{w}}=\mathrm{k}_1 \overrightarrow{\mathrm{u}}+\mathrm{k}_2 \overrightarrow{\mathrm{v}}$.
-\end{itemize}
+Dados os vetores $\overrightarrow{\mathrm{u}}=(3,-1)$ e $\overrightarrow{\mathrm{v}}=(-1,2)$, determinar o vetor $\overrightarrow{\mathrm{w}}$ tal que
+$4(\overrightarrow{\mathrm{u}}-\overrightarrow{\mathrm{v}})+\frac{1}{3} \overrightarrow{\mathrm{w}}=2 \overrightarrow{\mathrm{u}}-\overrightarrow{\mathrm{w}}$
+$3 \overrightarrow{\mathrm{w}}-(2 \overrightarrow{\mathrm{v}}-\overrightarrow{\mathrm{u}})=2(4 \overrightarrow{\mathrm{w}}-3 \overrightarrow{\mathrm{u}})$
+
+Dados os pontos $A(-1,3), B(2,5)$ e $C(3,-1)$, calcular $\overrightarrow{O A}-\overrightarrow{A B}, \overrightarrow{O C}-\overrightarrow{B C}$ e $3 \overrightarrow{B A}-4 \overrightarrow{C B}$.
+Dados os vetores $\overrightarrow{\mathrm{u}}=(3,-4)$ e $\overrightarrow{\mathrm{v}}=\left(-\frac{9}{4}, 3\right)$, verificar se existem números a e b tais que $\vec{u}=a \vec{v}$ e $\vec{v}=b \vec{u}$.
+Dados os vetores $\vec{u}=(2,-4), \vec{v}=(-5,1)$ e $\vec{w}=(-12,6)$, determinar $k_1$ e $k_2$ tal que $\overrightarrow{\mathrm{w}}=\mathrm{k}_1 \overrightarrow{\mathrm{u}}+\mathrm{k}_2 \overrightarrow{\mathrm{v}}$.
+
