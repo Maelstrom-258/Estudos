@@ -42,12 +42,11 @@ A interface do passageiro deverá permitir acompanhar o circular de maneira visu
 - Exibir no mapa a **localização atual do ônibus em tempo real.**
 - Exibir as **paradas usuais do circular** no mapa.
 - Informar se o ônibus está atualmente em **circulação, parado, em intervalo ou inativo**.
-- Calcular e apresentar uma estimativa do horário de chegada do ônibus às próximas paradas.
+- Calcular e apresentar uma **estimativa do horário de chegada do ônibus às próximas paradas**.
 - Permitir que o passageiro identifique a parada mais próxima utilizando a localização do próprio celular.
-- Exibir uma estimativa da lotação atual do ônibus.
-- Informar a capacidade máxima do circular e comparar essa capacidade com a quantidade estimada de passageiros.
+- Exibir uma **estimativa da lotação atual** do ônibus.
 
-Para a estimativa de lotação, considere como hipótese que a localização do celular dos passageiros, quando estiver próxima dos últimos "Ticks" de localização do motorista, possa ser utilizada para inferir a quantia de passageiros no ônibus.
+%%Para a estimativa de lotação, considere como hipótese que a localização do celular dos passageiros, quando estiver próxima dos últimos "Ticks" de localização do motorista, possa ser utilizada para inferir a quantia de passageiros no ônibus.%%
 ## Dados e funcionamento do sistema (Infraestrutura)
 
 Considere que o aplicativo precisará possuir uma infraestrutura responsável por receber, armazenar, processar e distribuir os dados enviados pelos celulares dos motoristas para os passageiros.
