@@ -53,7 +53,7 @@ Suas principais funcionalidades deverão incluir:
 - Exibir uma estimativa da lotação atual do ônibus.
 - Informar a capacidade máxima do circular e comparar essa capacidade com a quantidade estimada de passageiros.
 
-Para a estimativa de lotação, considere como hipótese de funcionamento que a localização do celular dos passageiros, quando estiver próxima das paradas utilizadas como pontos de referência do sistema, possa ser utilizada para inferir a entrada ou saída de passageiros do ônibus. Analise essa abordagem e indique no plano possíveis limitações, riscos de privacidade, imprecisões e alternativas técnicas mais confiáveis.
+Para a estimativa de lotação, considere como hipótese que a localização do celular dos passageiros, quando estiver próxima dos ticks de localiza, possa ser utilizada para inferir a entrada ou saída de passageiros do ônibus. Analise essa abordagem e indique no plano possíveis limitações, riscos de privacidade, imprecisões e alternativas técnicas mais confiáveis.
 
 ## Dados e funcionamento do sistema (Infraestrutura)
 
