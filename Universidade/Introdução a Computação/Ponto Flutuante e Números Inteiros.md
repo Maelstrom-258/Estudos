@@ -6,4 +6,6 @@ são sistemas de numeração aqueles que tem representações diferentes baseado
 
 ## Inteiros sem sinal (unsigned)
 255 é o alcance máximo para 8 bits.
-Em um sistema unsigned, todos os bits representam a magnitude 
+Em um sistema unsigned, todos os bits representam a magnitude do número.
+Alcance: $$
+[ 0,2^n - 1 ]$$
