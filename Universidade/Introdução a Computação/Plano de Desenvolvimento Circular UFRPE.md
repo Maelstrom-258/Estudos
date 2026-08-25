@@ -63,19 +63,16 @@ Explique também quais dados devem ser armazenados, quais dados devem ser transm
 
 ## Plataformas
 
-O aplicativo deverá ser desenvolvido para dispositivos móveis, com suporte tanto para Android quanto para iOS.
-
-Priorize uma arquitetura que permita **compartilhar o máximo possível do código** entre as duas plataformas, reduzindo custos e complexidade de desenvolvimento.
+O aplicativo deverá ser desenvolvido para dispositivos móveis, com suporte tanto para Android quanto para iOS. Priorize uma arquitetura que permita **compartilhar o máximo possível do código** entre as duas plataformas, reduzindo custos e complexidade de desenvolvimento.
 ## Requisitos e restrições
 
 Considere os seguintes requisitos:
 - O rastreamento deve funcionar de **maneira adequada em segundo plano quando necessário**.
 - O sistema deve procurar **minimizar o consumo de bateria** e de **internet móvel** do celular do motorista.
 - A localização deve possuir atualização suficientemente frequente para permitir acompanhamento em tempo real.
-- O sistema deve continuar funcionando de maneira segura mesmo em situações de instabilidade ou perda temporária de conexão.
-- O sistema deve possuir autenticação adequada para diferenciar motoristas de passageiros.
-- Usuários passageiros devem utilizar a interface de passageiro por padrão.
-- A interface do motorista deverá exigir autenticação ou algum mecanismo de autorização.
+- O sistema **deve continuar funcionando de maneira segura mesmo em situações de instabilidade ou perda temporária de conexão**.
+- O sistema deve possuir **autenticação adequada para diferenciar motoristas de passageiros**.
+- A interface do motorista deverá **exigir autenticação ou algum mecanismo de autorização**.
 - O sistema deverá considerar segurança e privacidade dos dados de localização dos usuários.
 - O projeto deve ser suficientemente simples para servir como uma primeira versão funcional do sistema, mas deve permitir evolução futura.
 - Considere acessibilidade, facilidade de uso e clareza da interface como requisitos importantes.
