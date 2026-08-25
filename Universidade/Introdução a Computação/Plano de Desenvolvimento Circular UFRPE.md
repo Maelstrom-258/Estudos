@@ -34,15 +34,9 @@ A localização deverá ser enviada inicialmente em um intervalo padrão de 10 s
 O motorista deverá possuir algumas opções de configuração do funcionamento do rastreamento, incluindo:
 
 - Definir o intervalo de atualização da localização, podendo utilizar um intervalo menor ou maior que o padrão de 10 segundos, respeitando um limite máximo de 30 segundos.
-    
 - Definir seu horário de almoço, fazendo com que o sistema suspenda automaticamente a transmissão da localização durante esse período.
-    
 - Definir períodos de inatividade, durante os quais o envio da localização deverá ser interrompido automaticamente.
-    
 - Informar a capacidade máxima de passageiros do ônibus circular.
-    
-- Indicar o estado atual do veículo, como em circulação, parado, em intervalo ou inativo.
-    
 
 Os dados principais fornecidos por essa interface serão latitude, longitude, horário da atualização, identificação do ônibus/motorista e estado de funcionamento do veículo.
 
