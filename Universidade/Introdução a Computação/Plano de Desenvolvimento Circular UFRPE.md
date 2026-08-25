@@ -86,7 +86,7 @@ Organize o desenvolvimento utilizando quatro etapas principais:
 Defina o problema, objetivos, requisitos funcionais e não funcionais, usuários, arquitetura inicial, riscos e prioridades do projeto.
 ### Organização
 
-Defina a divisão das funcionalidades, componentes do sistema, tecnologias necessárias, estrutura do banco de dados, organização da equipe e sequência de implementação.
+Defina a divisão das funcionalidades, componentes do sistema, tecnologias necessárias, estrutura do banco de dados, organização da equipe e **sequência de implementação**.
 ### Desenvolvimento
 
 Apresente as etapas de implementação do aplicativo, incluindo desenvolvimento da interface do motorista, interface do passageiro, backend, banco de dados, comunicação em tempo real, integração com mapas, autenticação e sistema de estimativa de chegada e lotação.
