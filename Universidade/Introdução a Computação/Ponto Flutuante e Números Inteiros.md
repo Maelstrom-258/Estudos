@@ -9,3 +9,5 @@ são sistemas de numeração aqueles que tem representações diferentes baseado
 Em um sistema unsigned, todos os bits representam a magnitude do número.
 Alcance: $$
 [ 0,2^n - 1 ]$$
+Para 8 bits: 0 a 255. utilizado para endereços de memória e contadores de laços.
+
