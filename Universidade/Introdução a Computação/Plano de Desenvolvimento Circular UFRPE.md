@@ -24,20 +24,18 @@ Elaboração de etapas para o planejamento do aplicativo, lista de tecnologias p
 
 # Prompt Final
 
-Elabore um plano de desenvolvimento para o app CircuMobi, um aplicativo mobile destinado ao rastreamento e acompanhamento dos ônibus circulares da UFRPE. O sistema deve possuir duas interfaces principais: uma interface destinada aos motoristas, responsável pelo envio dos dados de localização e estado do ônibus, e uma aos passageiros, que utilizará esses dados para acompanhar o circular, visualizar suas paradas e estimar sua chegada.
+Elabore um plano de desenvolvimento para o app CircuMobi, um aplicativo mobile destinado ao rastreamento e acompanhamento dos ônibus circulares da UFRPE. O sistema deve possuir duas interfaces principais: uma interface destinada aos motoristas, responsável pelo envio dos dados de localização do ônibus, e uma aos passageiros, que utilizará esses dados para acompanhar o circular, visualizar suas paradas e estimar sua chegada.
 ## Interface do motorista
 
 A interface do motorista terá como principal objetivo funcionar como a **fonte dos dados de localização do ônibus**, utilizando o GPS do celular do motorista para transmitir a latitude e a longitude atuais do veículo para o sistema (Ver fluxograma).
 
-A localização deverá ser enviada inicialmente em um intervalo padrão de 10 segundos, buscando equilibrar precisão da localização, consumo de bateria, uso de dados móveis e desempenho do sistema.
-
-O motorista deverá possuir algumas opções de configuração do funcionamento do rastreamento, incluindo:
+A localização deverá ser enviada por padrão em um intervalo de 10 segundos, buscando equilibrar precisão da localização, consumo de bateria, uso de dados móveis e desempenho do sistema. O motorista deverá possuir algumas opções de configuração do funcionamento do rastreamento, incluindo:
 - Definir o intervalo de atualização da localização, podendo utilizar um intervalo menor ou maior que o padrão de 10 segundos, respeitando um limite máximo de 30 segundos.
 - Definir seu horário de almoço, fazendo com que o sistema suspenda automaticamente a transmissão da localização durante esse período.
 - Definir períodos de inatividade, durante os quais o envio da localização deverá ser interrompido automaticamente.
 - Informar a capacidade máxima de passageiros do ônibus circular.
 
-Os dados principais fornecidos por essa interface serão latitude, longitude, horário da atualização, identificação do ônibus/motorista e estado de funcionamento do veículo.
+Os dados principais fornecidos por essa interface serão **latitude**, **longitude**, horário da atualização, identificação do ônibus/motorista e estado de funcionamento do veículo.
 ## Interface do passageiro
 
 A interface do passageiro deverá permitir acompanhar o circular de maneira simples e visual.
