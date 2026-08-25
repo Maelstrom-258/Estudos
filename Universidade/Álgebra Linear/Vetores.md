@@ -69,17 +69,12 @@ b) $3 \overrightarrow{\mathrm{w}}-(2 \overrightarrow{\mathrm{v}}-\overrightarrow
 Parte 2: Produto Escalar (Interno)
 1) Dados os vetores $\overrightarrow{\mathrm{u}}=(1, \mathrm{a},-2 \mathrm{a}-1), \overrightarrow{\mathrm{v}}=(\mathrm{a}, \mathrm{a}-1,1)$ e $\overrightarrow{\mathrm{w}}=(\mathrm{a},-1,1)$, determinar $a$ de modo que $\vec{u} \cdot \vec{v}=(\vec{u}+\vec{v}) \cdot \vec{w}$.
 2) Dados os pontos $\mathrm{A}(-1,0,2), \mathrm{B}(-4,1,1)$ e $\mathrm{C}(0,1,3)$, determinar o vetor $\overrightarrow{\mathrm{x}}$ tal que $2 \vec{x}-\overrightarrow{A B}=\vec{x}+(\overrightarrow{B C} \cdot \overrightarrow{A B}) \overrightarrow{A C}$.
-3) Determinar o vetor $\vec{v}$, sabendo que
-
-$$
-(3,7,1)+2 \vec{v}=(6,10,4)-\vec{v} .
-$$
+3) Determinar o vetor $\vec{v}$, sabendo que$$(3,7,1)+2 \vec{v}=(6,10,4)-\vec{v} .$$
 
 
-Parte 3: Ãngulo entre vetores, paralelismo e ortogonalidade.
-\item[15)] Determinar os ângulos do triângulo de vértices $\mathrm{A}(2,1,3), \mathrm{B}(1,0,-1)$ e $\mathrm{C}(-1,2,1)$.
-\item[16)] Sabendo que o ảngulo entre os vetores $\overrightarrow{\mathrm{u}}=(2,1,-1)$ e $\overrightarrow{\mathrm{v}}=(1,-1, \mathrm{~m}+2)$ é $\frac{\pi}{3}$, determinar $m$.
-\item[17)] Calcular $n$ para que seja de 30° o ângulo entre os vetores $\overrightarrow{\mathrm{u}}=(1, \mathrm{n}, 2)$ e $\overrightarrow{\mathrm{j}}$.
-\item[18)] Dados os vetores $\vec{a}=(2,1, \alpha), \vec{b}=(\alpha+2,-5,2)$ e $\vec{c}=(2 \alpha, 8, \alpha)$, determinar o valor de $\alpha$ para que o vetor $\vec{a}+\vec{b}$ seja ortogonal ao vetor $\vec{c}-\vec{a}$.
-\item[19)] Determinar o vetor $\overrightarrow{\mathrm{v}}$, paralelo ao vetor $\overrightarrow{\mathrm{u}}=(1,-1,2)$, tal que $\overrightarrow{\mathrm{v}} \cdot \overrightarrow{\mathrm{u}}=-18$.
-\end{itemize}
+Parte 3: Ângulo entre vetores, paralelismo e ortogonalidade.
+15) Determinar os ângulos do triângulo de vértices $\mathrm{A}(2,1,3), \mathrm{B}(1,0,-1)$ e $\mathrm{C}(-1,2,1)$.
+16) Sabendo que o ảngulo entre os vetores $\overrightarrow{\mathrm{u}}=(2,1,-1)$ e $\overrightarrow{\mathrm{v}}=(1,-1, \mathrm{~m}+2)$ é $\frac{\pi}{3}$, determinar $m$.
+17) Calcular $n$ para que seja de 30° o ângulo entre os vetores $\overrightarrow{\mathrm{u}}=(1, \mathrm{n}, 2)$ e $\overrightarrow{\mathrm{j}}$.
+18) Dados os vetores $\vec{a}=(2,1, \alpha), \vec{b}=(\alpha+2,-5,2)$ e $\vec{c}=(2 \alpha, 8, \alpha)$, determinar o valor de $\alpha$ para que o vetor $\vec{a}+\vec{b}$ seja ortogonal ao vetor $\vec{c}-\vec{a}$.
+19) Determinar o vetor $\overrightarrow{\mathrm{v}}$, paralelo ao vetor $\overrightarrow{\mathrm{u}}=(1,-1,2)$, tal que $\overrightarrow{\mathrm{v}} \cdot \overrightarrow{\mathrm{u}}=-18$.
