@@ -77,6 +77,7 @@ Considere os seguintes requisitos:
 - O projeto deve ser suficientemente simples para servir como uma primeira versão funcional do sistema, mas deve permitir evolução futura.
 - Considere acessibilidade, facilidade de uso e clareza da interface como requisitos importantes.
 
+********
 ## Planejamento administrativo e fluxo de desenvolvimento
 
 Organize o desenvolvimento utilizando quatro etapas principais:
