@@ -24,7 +24,7 @@ Elaboração de etapas para o planejamento do aplicativo, lista de tecnologias p
 
 # Prompt Final
 
-Elabore um plano de desenvolvimento para o app CircuMobi, um aplicativo mobile destinado ao rastreamento e acompanhamento, em tempo real, dos ônibus circulares da UFRPE. O sistema deverá possuir duas interfaces principais: uma interface destinada aos motoristas, responsável pelo envio dos dados de localização e estado do ônibus, e uma interface destinada aos passageiros, que utilizará esses dados para acompanhar o circular, visualizar suas paradas e estimar sua chegada.
+Elabore um plano de desenvolvimento para o app CircuMobi, um aplicativo mobile destinado ao rastreamento e acompanhamento dos ônibus circulares da UFRPE. O sistema deve possuir duas interfaces principais: uma interface destinada aos motoristas, responsável pelo envio dos dados de localização e estado do ônibus, e uma aos passageiros, que utilizará esses dados para acompanhar o circular, visualizar suas paradas e estimar sua chegada.
 ## Interface do motorista
 
 A interface do motorista terá como principal objetivo funcionar como a **fonte dos dados de localização do ônibus**, utilizando o GPS do celular do motorista para transmitir a latitude e a longitude atuais do veículo para o sistema (Ver fluxograma).
