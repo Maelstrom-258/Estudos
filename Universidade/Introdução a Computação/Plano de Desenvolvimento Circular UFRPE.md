@@ -25,7 +25,7 @@ Elaboração de etapas para o planejamento do aplicativo, lista de tecnologias p
 # Prompt Final
 
 Elabore um plano de desenvolvimento para o app CircuMobi, um aplicativo mobile destinado ao rastreamento e acompanhamento, em tempo real, dos ônibus circulares da UFRPE. O sistema deverá possuir duas interfaces principais: uma interface destinada aos motoristas, responsável pelo envio dos dados de localização e estado do ônibus, e uma interface destinada aos passageiros, que utilizará esses dados para acompanhar o circular, visualizar suas paradas e estimar sua chegada.
-## 1. Interface do motorista
+## Interface do motorista
 
 A interface do motorista terá como principal objetivo funcionar como a **fonte dos dados de localização do ônibus**, utilizando o GPS do celular do motorista para transmitir a latitude e a longitude atuais do veículo para o sistema (Ver fluxograma).
 
@@ -40,26 +40,18 @@ O motorista deverá possuir algumas opções de configuração do funcionamento 
 
 Os dados principais fornecidos por essa interface serão latitude, longitude, horário da atualização, identificação do ônibus/motorista e estado de funcionamento do veículo.
 
-## 2. Interface do passageiro
+## Interface do passageiro
 
 A interface do passageiro deverá permitir acompanhar o circular de maneira simples e visual.
-
 Suas principais funcionalidades deverão incluir:
 
 - Exibir no mapa a localização atual do ônibus em tempo real.
-    
 - Exibir as paradas usuais do circular no mapa.
-    
 - Informar se o ônibus está atualmente em circulação, parado, em intervalo ou inativo.
-    
 - Calcular e apresentar uma estimativa do horário de chegada do ônibus às próximas paradas.
-    
 - Permitir que o passageiro identifique a parada mais próxima utilizando a localização do próprio celular.
-    
 - Exibir uma estimativa da lotação atual do ônibus.
-    
 - Informar a capacidade máxima do circular e comparar essa capacidade com a quantidade estimada de passageiros.
-    
 
 Para a estimativa de lotação, considere como hipótese de funcionamento que a localização do celular dos passageiros, quando estiver próxima das paradas utilizadas como pontos de referência do sistema, possa ser utilizada para inferir a entrada ou saída de passageiros do ônibus. Analise essa abordagem e indique no plano possíveis limitações, riscos de privacidade, imprecisões e alternativas técnicas mais confiáveis.
 
