@@ -13,3 +13,5 @@ Alcance: $$
 Para 8 bits: 0 a 255. utilizado para endereços de memória e contadores de laços.
 0
 
+## Ponto flutuante
+![[Pasted image 20260825151234.png]]
