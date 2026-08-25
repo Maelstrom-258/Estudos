@@ -55,22 +55,17 @@ Suas principais funcionalidades deverão incluir:
 
 Para a estimativa de lotação, considere como hipótese de funcionamento que a localização do celular dos passageiros, quando estiver próxima das paradas utilizadas como pontos de referência do sistema, possa ser utilizada para inferir a entrada ou saída de passageiros do ônibus. Analise essa abordagem e indique no plano possíveis limitações, riscos de privacidade, imprecisões e alternativas técnicas mais confiáveis.
 
-## Dados e funcionamento do sistema
+## Dados e funcionamento do sistema (Infraestrutura)
 
 Considere que o aplicativo precisará possuir uma infraestrutura responsável por receber, armazenar, processar e distribuir os dados enviados pelos celulares dos motoristas para os passageiros.
 
 Descreva como deverá funcionar o fluxo de dados entre:
 
 1. Celular do motorista;
-    
 2. Servidor ou serviço de backend;
-    
 3. Banco de dados;
-    
 4. Sistema de mapas e cálculo de localização/rota;
-    
 5. Celular do passageiro.
-    
 
 Explique também quais dados devem ser armazenados, quais dados devem ser transmitidos em tempo real e quais informações podem ser calculadas sob demanda.
 
