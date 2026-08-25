@@ -32,7 +32,6 @@ A interface do motorista terá como principal objetivo funcionar como a **fonte 
 A localização deverá ser enviada inicialmente em um intervalo padrão de 10 segundos, buscando equilibrar precisão da localização, consumo de bateria, uso de dados móveis e desempenho do sistema.
 
 O motorista deverá possuir algumas opções de configuração do funcionamento do rastreamento, incluindo:
-
 - Definir o intervalo de atualização da localização, podendo utilizar um intervalo menor ou maior que o padrão de 10 segundos, respeitando um limite máximo de 30 segundos.
 - Definir seu horário de almoço, fazendo com que o sistema suspenda automaticamente a transmissão da localização durante esse período.
 - Definir períodos de inatividade, durante os quais o envio da localização deverá ser interrompido automaticamente.
@@ -43,7 +42,6 @@ Os dados principais fornecidos por essa interface serão latitude, longitude, ho
 
 A interface do passageiro deverá permitir acompanhar o circular de maneira simples e visual.
 Suas principais funcionalidades deverão incluir:
-
 - Exibir no mapa a localização atual do ônibus em tempo real.
 - Exibir as paradas usuais do circular no mapa.
 - Informar se o ônibus está atualmente em circulação, parado, em intervalo ou inativo.
@@ -71,31 +69,19 @@ Explique também quais dados devem ser armazenados, quais dados devem ser transm
 O aplicativo deverá ser desenvolvido para dispositivos móveis, com suporte tanto para Android quanto para iOS.
 
 Priorize uma arquitetura que permita **compartilhar o máximo possível do código** entre as duas plataformas, reduzindo custos e complexidade de desenvolvimento.
-
 ## Requisitos e restrições
 
 Considere os seguintes requisitos:
-
-- O rastreamento deve funcionar de maneira adequada em segundo plano quando necessário.
-    
-- O sistema deve procurar minimizar o consumo de bateria e de internet móvel do celular do motorista.
-    
+- O rastreamento deve funcionar de **maneira adequada em segundo plano quando necessário**.
+- O sistema deve procurar **minimizar o consumo de bateria** e de **internet móvel** do celular do motorista.
 - A localização deve possuir atualização suficientemente frequente para permitir acompanhamento em tempo real.
-    
 - O sistema deve continuar funcionando de maneira segura mesmo em situações de instabilidade ou perda temporária de conexão.
-    
 - O sistema deve possuir autenticação adequada para diferenciar motoristas de passageiros.
-    
 - Usuários passageiros devem utilizar a interface de passageiro por padrão.
-    
 - A interface do motorista deverá exigir autenticação ou algum mecanismo de autorização.
-    
 - O sistema deverá considerar segurança e privacidade dos dados de localização dos usuários.
-    
 - O projeto deve ser suficientemente simples para servir como uma primeira versão funcional do sistema, mas deve permitir evolução futura.
-    
 - Considere acessibilidade, facilidade de uso e clareza da interface como requisitos importantes.
-    
 
 ## 6. Planejamento administrativo e fluxo de desenvolvimento
 
