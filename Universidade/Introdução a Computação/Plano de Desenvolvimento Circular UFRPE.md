@@ -59,21 +59,20 @@ Considere que o aplicativo precisará possuir uma infraestrutura responsável po
 
 Descreva como deverá funcionar o fluxo de dados entre:
 
-1. Celular do motorista;
-2. Servidor ou serviço de backend;
-3. Banco de dados;
-4. Sistema de mapas e cálculo de localização/rota;
-5. Celular do passageiro.
+Celular do motorista;
+Servidor ou serviço de backend;
+Banco de dados;
+Sistema de mapas e cálculo de localização/rota;
+Celular do passageiro.
 
 Explique também quais dados devem ser armazenados, quais dados devem ser transmitidos em tempo real e quais informações podem ser calculadas sob demanda.
 
-## 4. Plataforma
-
+## Plataformas
 O aplicativo deverá ser desenvolvido para dispositivos móveis, com suporte tanto para Android quanto para iOS.
 
-Priorize uma arquitetura que permita compartilhar o máximo possível do código entre as duas plataformas, reduzindo custos e complexidade de desenvolvimento.
+Priorize uma arquitetura que permita **compartilhar o máximo possível do código** entre as duas plataformas, reduzindo custos e complexidade de desenvolvimento.
 
-## 5. Requisitos e restrições
+## Requisitos e restrições
 
 Considere os seguintes requisitos:
 
