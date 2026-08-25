@@ -4,7 +4,8 @@
 		{"id":"9d7cb7d076635380","x":-740,"y":-560,"width":260,"height":140,"color":"3","type":"text","text":"Definição de horários de almoço e inatividade, tal qual configurações básicas do aplicativo."},
 		{"id":"0442c4b8d451e412","x":-735,"y":-280,"width":250,"height":60,"color":"5","type":"text","text":"Início de Turno"},
 		{"id":"63c50f424e5f0c68","x":-735,"y":-140,"width":250,"height":60,"color":"4","type":"text","text":"Ticks de Localização"},
-		{"id":"f7d5c108530c2de0","x":-260,"y":-680,"width":250,"height":60,"color":"3","type":"text","text":"Paradas"}
+		{"id":"f7d5c108530c2de0","x":-260,"y":-680,"width":250,"height":60,"color":"1","type":"text","text":"Determinar ônibus como PARADO"},
+		{"id":"82ae4801106438f5","x":-404,"y":-439,"width":250,"height":60,"color":"2","type":"text","text":"Se a localização não mudar entre um Tick e outro"}
 	],
 	"edges":[
 		{"id":"f846e5ebcb6ce166","fromNode":"ce9a45090c48a89a","fromSide":"bottom","toNode":"9d7cb7d076635380","toSide":"top"},
