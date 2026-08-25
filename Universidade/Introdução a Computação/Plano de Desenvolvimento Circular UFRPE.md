@@ -114,7 +114,7 @@ Apresente também pelo menos uma alternativa tecnológica relevante para os prin
 
 
 # Prompt final 2
-# Plano de Desenvolvimento do Aplicativo CircuMobi
+## Plano de Desenvolvimento do Aplicativo CircuMobi
 
 Elabore um plano de desenvolvimento para o app CircuMobi, um aplicativo mobile destinado ao rastreamento e acompanhamento dos ônibus circulares da UFRPE. O sistema precisa ter duas interfaces principais: uma para os motoristas, que enviará os dados de localização do ônibus, e outra para os passageiros, que usará esses dados para acompanhar o ônibus, ver suas paradas e saber a hora de chegada.
 
@@ -173,23 +173,14 @@ Listar as tecnologias, linguagens, frameworks, bibliotecas, serviços e ferramen
 Justificar a escolha de cada tecnologia, especialmente para:
 
 - Desenvolvimento mobile multiplataforma;
-
 - GPS e localização em segundo plano;
-
 - Backend;
-
 - Banco de dados;
-
 - Comunicação em tempo real;
-
 - Autenticação;
-
 - Mapas;
-
 - Cálculo de rotas e estimativa de chegada;
-
 - Hospedagem e infraestrutura;
-
 - Monitoramento e testes.
 
 Também apresentar alternativas para os principais componentes e comparar vantagens e desvantagens.
