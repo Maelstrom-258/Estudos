@@ -35,10 +35,10 @@ A localização deverá ser enviada por padrão em um intervalo de 10 segundos, 
 - Definir períodos de inatividade, durante os quais o envio da localização deverá ser interrompido automaticamente.
 - Informar a capacidade máxima de passageiros do ônibus circular.
 
-Os dados principais fornecidos por essa interface serão **latitude**, **longitude**, **horário da atualização**, **identificação do ônibus/motorista** e através do cálculo entre.
+Os dados principais fornecidos por essa interface serão **latitude**, **longitude**, **horário da atualização**, **identificação do ônibus/motorista** e através do cálculo entre uma localização e outra, se o ônibus **está andando ou não**.
 ## Interface do passageiro
 
-A interface do passageiro deverá permitir acompanhar o circular de maneira simples e visual.
+A interface do passageiro deverá permitir acompanhar o circular de maneira visual no mapa.
 Suas principais funcionalidades deverão incluir:
 - Exibir no mapa a localização atual do ônibus em tempo real.
 - Exibir as paradas usuais do circular no mapa.
