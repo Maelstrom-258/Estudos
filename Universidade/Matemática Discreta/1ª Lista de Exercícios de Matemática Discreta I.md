@@ -93,15 +93,15 @@ $$
 ### a) $[(p \rightarrow q) \land (q \rightarrow r)] \rightarrow (p \rightarrow r)$
 
 | $p$ | $q$ | $r$ | $p \rightarrow q$ | $q \rightarrow r$ | $(p \rightarrow q) \land (q \rightarrow r)$ | $p \rightarrow r$ | Resultado |
-|---|---|---|---|---|---|---|---|
-| V | V | V | V | V | V | V | **V** |
-| V | V | F | V | F | F | F | **V** |
-| V | F | V | F | V | F | V | **V** |
-| V | F | F | F | V | F | F | **V** |
-| F | V | V | V | V | V | V | **V** |
-| F | V | F | V | F | F | V | **V** |
-| F | F | V | V | V | V | V | **V** |
-| F | F | F | V | V | V | V | **V** |
+| --- | --- | --- | ----------------- | ----------------- | ------------------------------------------- | ----------------- | --------- |
+| V   | V   | V   | V                 | V                 | V                                           | V                 | **V**     |
+| V   | V   | F   | V                 | F                 | F                                           | F                 | **V**     |
+| V   | F   | V   | F                 | V                 | F                                           | V                 | **V**     |
+| V   | F   | F   | F                 | V                 | F                                           | F                 | **V**     |
+| F   | V   | V   | V                 | V                 | V                                           | V                 | **V**     |
+| F   | V   | F   | V                 | F                 | F                                           | V                 | **V**     |
+| F   | F   | V   | V                 | V                 | V                                           | V                 | **V**     |
+| F   | F   | F   | V                 | V                 | V                                           | V                 | **V**     |
 
 Como a última coluna é sempre verdadeira:
 
