@@ -1,5 +1,3 @@
-Bora. A lista tem 10 questões, cobrindo lógica proposicional, quantificadores, regras de inferência, resolução e demonstrações matemáticas. Vou resolver na ordem, mostrando o raciocínio para você conseguir acompanhar.
-
 ### 1. Oposta, contrapositiva e inversa
 
 Para uma condicional:
