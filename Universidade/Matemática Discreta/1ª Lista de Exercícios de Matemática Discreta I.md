@@ -1,5 +1,3 @@
-# 1ª Lista de Exercícios de Matemática Discreta I
-
 **Universidade Federal Rural de Pernambuco (UFRPE)**  
 **Departamento de Computação (DC)**
 
