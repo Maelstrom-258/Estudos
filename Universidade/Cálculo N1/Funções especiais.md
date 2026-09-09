@@ -49,4 +49,7 @@ Uma função racional, é uma função da forma $f(x) = \frac{P(x)}{Q(x)}$ onde 
 
 Uma função racional está definida em todos os valores onde o domínio é não nulo (não se pode dividir por zero.)
 
-Exemplo: $$g(x) = \frac{2x^4-x^2}{}$$
+Exemplo: $$g(x) = \frac{2x^4-x^2+1}{x^2-4}$$
+```desmos-graph
+y=\frac{2x^4-x^2+1}{x^2-4}
+```
