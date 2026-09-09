@@ -7,6 +7,6 @@ o coeficiente B sua vez representa onde a reta corta o eixo y quando x = 0.
 
 A Raiz da função é determinada por $$x=- \frac{b}{a}$$
 ## Função polinomial
-A função polinomial é determinada por $$$$
+A função polinomial é determinada por $$f(x$$
 
 
