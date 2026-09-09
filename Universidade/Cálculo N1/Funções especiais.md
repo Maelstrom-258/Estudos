@@ -20,4 +20,4 @@ y=2^x
 ```
 
 ### Casos de função potência
-1) a > 0, 
+1) a > 0, $a\mathbb{N}$ 
