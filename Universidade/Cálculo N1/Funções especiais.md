@@ -1,0 +1,1 @@
+A função conhecida como AFIM $$ f(x_$$
