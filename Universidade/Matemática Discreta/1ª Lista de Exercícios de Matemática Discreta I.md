@@ -2,7 +2,7 @@
 **Departamento de Computação (DC)**
 
 ---
-
+#exercicio 
 ## 1. Oposta, contrapositiva e inversa
 
 Para uma proposição condicional:
