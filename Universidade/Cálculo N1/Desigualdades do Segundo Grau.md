@@ -1,3 +1,4 @@
+#exercicio
 EX: Resolva a desigualdade x² - 5x + 6 =< 0
 S = [2,3]
 ![[Pasted image 20260824162823.png]]
