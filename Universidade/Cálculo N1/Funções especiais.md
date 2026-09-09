@@ -37,5 +37,7 @@ y=x^{-1}
 ```desmos-graph
 y=x^\frac{1}{2}
 ```
+5) $a=\frac{}{}$
 
 ### Raiz da função potência
+A raiz de uma função potência sempre vai ser
