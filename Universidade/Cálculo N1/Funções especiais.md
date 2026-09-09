@@ -47,4 +47,4 @@ A raiz de uma função potência sempre vai ser igual a 0, isso se deve ao fato 
 ## Funções racionais
 Uma função racional, é uma função da forma $f(x) = \frac{P(x)}{Q(x)}$ onde $P(x)$ e $Q(x)$ são funções polinomiais.
 
-Uma função racional está definida em todos os valores 
+Uma função racional está definida em todos os valores onde o domínio é não nulo (não se pode dividir por zero.)
