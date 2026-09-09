@@ -42,4 +42,5 @@ y=x^\frac{1}{2}
 y=x^\frac{1}{3}
 ```
 ### Raiz da função potência
-A raiz de uma função potência sempre vai ser igual a 0, isso se deve ao fato de que toda vez que se tem um $x^n = 0$ é quando x é i
+A raiz de uma função potência sempre vai ser igual a 0, isso se deve ao fato de que toda vez que se tem um $x^n = 0$ é quando x é diretamente igual a 0.
+
