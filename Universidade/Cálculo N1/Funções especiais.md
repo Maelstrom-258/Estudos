@@ -45,4 +45,6 @@ y=x^\frac{1}{3}
 A raiz de uma função potência sempre vai ser igual a 0, isso se deve ao fato de que toda vez que se tem um $x^n = 0$ é quando x é diretamente igual a 0.
 
 ## Funções racionais
-Uma função racional, é uma função da forma $f(x) = \frac{P(x)}{Q(X)}$ onde $P(x)$ e $Q(x)$ são funções polin
+Uma função racional, é uma função da forma $f(x) = \frac{P(x)}{Q(x)}$ onde $P(x)$ e $Q(x)$ são funções polinomiais.
+
+Uma função racional está definida em todos os valores 
