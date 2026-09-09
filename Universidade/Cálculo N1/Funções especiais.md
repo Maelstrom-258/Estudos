@@ -13,8 +13,6 @@ A função polinomial **Não possui raízes**
 ## Função potência
 É representada por $$f(x)=a^x$$
 ```
-
 desmos-graph
-a^x
-
+$$y=a^x
 ```
