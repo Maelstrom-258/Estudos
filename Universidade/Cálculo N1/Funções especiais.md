@@ -29,4 +29,8 @@ y=x^2
 ```desmos-graph
 y=x^3
 ```
-3)
+3) Se a = -1
+```desmos-graph
+y=x^{-1}
+```
+4) Se a = 
