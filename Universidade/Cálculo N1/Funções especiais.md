@@ -33,4 +33,7 @@ y=x^3
 ```desmos-graph
 y=x^{-1}
 ```
-4) Se a = 
+4) Se $a = \frac{1}{n}$ 
+```desmos-graph
+y=x^\frac{1}{2}
+```
