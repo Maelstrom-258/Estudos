@@ -23,5 +23,5 @@ y=2^x
 1) a > 0, $a\in \mathbb{N}$ , a par.
 
 ```desmos-graph
-y=\sqrx
+y=\pow{x}
 ```
