@@ -20,4 +20,8 @@ y=2^x
 ```
 
 ### Casos de função potência
-1) a > 0, $a\mathbb{N}$ 
+1) a > 0, $a\in \mathbb{N}$ , a par.
+
+```desmos-graph
+y=\sqrx
+```
