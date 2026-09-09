@@ -10,4 +10,5 @@ A Raiz da função é determinada por $$x=- \frac{b}{a}$$
 A função polinomial é determinada por $$f(x)= a_nx^n+a_{n-1}x^{n-1}+a_{n-2}x^{n-2}  ... a_1x+a_0$$
 A função polinomial **Não possui raízes**
 
-
+## Função potência
+É representada por $$f(x)=a^x$$
