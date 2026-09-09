@@ -37,3 +37,5 @@ y=x^{-1}
 ```desmos-graph
 y=x^\frac{1}{2}
 ```
+
+### Raiz da função potência
