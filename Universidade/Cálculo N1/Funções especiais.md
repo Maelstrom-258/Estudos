@@ -39,7 +39,7 @@ y=x^\frac{1}{2}
 ```
 5) $a=\frac{1}{n}$ , n > 0, $n \in \mathbb{N}$ , n ímpar
 ```desmos-graph
-y=x^\frac{1}{2}
+y=x^\frac{1}{3}
 ```
 ### Raiz da função potência
 A raiz de uma função potência sempre vai ser
