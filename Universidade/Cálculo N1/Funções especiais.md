@@ -21,7 +21,12 @@ y=2^x
 
 ### Casos de função potência
 1) a > 0, $a\in \mathbb{N}$ , a par.
-
 ```desmos-graph
-y=\pow{x}
+y=x^2
 ```
+
+2) a > 0, $a\in \mathbb{N}$ , a ímpar.
+```desmos-graph
+y=x^3
+```
+3)
