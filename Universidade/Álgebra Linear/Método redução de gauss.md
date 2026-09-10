@@ -7,4 +7,7 @@ $$\begin{Bmatrix}
 
 \end{Bmatrix}
 $$
-$$\begin{}$$
+$$\begin{Bmatrix}
+1 & 1 & 2 \\
+0 & -1 & 
+\end{Bmatrix}$$
