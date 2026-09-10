@@ -7,9 +7,14 @@ $$\begin{Bmatrix}
 
 \end{Bmatrix}
 $$
-Vira, ao multiplicar $l_1$  
+Vira, ao multiplicar $l_1$ por 1 e somar com a $l_2$  
 $$\begin{Bmatrix}
 1 & 1 & 2 \\
 0 & -1 & 5 \\
 3 & -7 & 4
+\end{Bmatrix}$$
+Que por sua vez vira a matrix:
+$$
+\begin{Bmatrix}
+
 \end{Bmatrix}$$
