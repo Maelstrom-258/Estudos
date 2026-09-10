@@ -16,5 +16,7 @@ $$\begin{Bmatrix}
 Que por sua vez vira a matrix:
 $$
 \begin{Bmatrix}
-
+1 & 1 & 2 \\
+0 & -1 & 5 \\
+0 & -5
 \end{Bmatrix}$$
