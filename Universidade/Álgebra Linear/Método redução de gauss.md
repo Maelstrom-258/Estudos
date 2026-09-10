@@ -7,8 +7,9 @@ $$\begin{Bmatrix}
 
 \end{Bmatrix}
 $$
+Vira, ao multiplicar $l_1$  
 $$\begin{Bmatrix}
 1 & 1 & 2 \\
 0 & -1 & 5 \\
-
+3 & -7 & 4
 \end{Bmatrix}$$
