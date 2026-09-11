@@ -20,4 +20,6 @@ $(n-1)^2 + (2n-1)$
 $(n^2-2n+1)+(2n-1)$
 $n^2$
 
+Chegamos a conclusão de que o teorema é sim verdadeiro para o caso aonde $n = 1$
 
+Se o teorema for verdadeiro para $n-1$, ele também será verdadeiro para $n$ .
