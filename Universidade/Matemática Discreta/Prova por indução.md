@@ -17,11 +17,14 @@ Então, como que provaríamos o fato?
 
 Definindo o n-ésimo número ímpar: 
 
-$2n-1 1+3+...+(2n-3)+(2n-1)=n^2
-(1+3+...+(2n+3))+(2n-1)
-(n-1)^2 + (2n-1)
-(n^2-2n+1)+(2n-1)
-n^2$
+$$\begin{aligned}
+2n-1 \\
+1+3+...+(2n-3)+(2n-1)=n^2 \\
+(1+3+...+(2n+3))+(2n-1) \\
+(n-1)^2 + (2n-1) \\
+(n^2-2n+1)+(2n-1) \\
+n^2
+\end{aligned}$$
 
 Chegamos a conclusão de que o teorema é sim verdadeiro para o caso aonde $n = 1$
 Se o teorema for verdadeiro para $n-1$, ele também será verdadeiro para $n$ .
