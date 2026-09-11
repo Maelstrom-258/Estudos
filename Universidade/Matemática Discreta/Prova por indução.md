@@ -1,7 +1,7 @@
 ## Soma dos números ímpares
 Considere uma **lista da soma dos primeiros n números ímpares**.
 
-$$1 = 1 \\
+$$1 = 1 \\ 
 1 + 3 = 4 \\
 1 + 3 + 5 = 9 \\
 1 + 3 + 5 + 7 = 16 \\
