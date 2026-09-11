@@ -35,6 +35,6 @@ Temos um **Caso base**, onde que vamos mostrar que o teorema é verdadeiro para 
 Uma vez demonstrado o caso base, temos o **Passo indutivo**, onde o mesmo tem 3 sub componentes.
 1) Hipótese indutiva: O que vai ser assumido como verdadeiro (que o teorema é válido para um dado valor $n$.
 2) Tese: O que quer ser provado, demonstrado, ou validado. (Se o teorema for válido para o falor da sequência, ele será para o próximo valor após ele)
-3) Demonstração: Partindo da hipótese, mostrar que a tese tem que ser verdadeira no caso da hipótese indutiva, validando a tese.
+3) Demonstração: Partindo da hipótese, mostrar que a tese tem que ser verdadeira no caso da hipótese indutiva, validando a tese.0
 
 
