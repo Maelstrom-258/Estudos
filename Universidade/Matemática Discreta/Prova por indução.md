@@ -1,12 +1,11 @@
 ## Soma dos números ímpares
 Considere uma **lista da soma dos primeiros n números ímpares**.
 
-$$1 = 1
-$$
-$$1 + 3 = 4$$
-$$1 + 3 + 5 = 9$$
-$$1 + 3 + 5 + 7 = 16$$
-$$1 + 3 + 5 + 7 + 9= 25$$
+$$1 = 1 \newline
+1 + 3 = 4 \newline
+1 + 3 + 5 = 9 \newline
+1 + 3 + 5 + 7 = 16
+1 + 3 + 5 + 7 + 9= 25$$
 $$...$$
 $$$$
 Não temos nenhuma forma de **garantir** que a soma dos primeiros n números ímpares seja $n^2$ .
