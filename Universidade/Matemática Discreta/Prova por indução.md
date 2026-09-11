@@ -33,4 +33,6 @@ Dessa forma, pode-se provar que para qualquer caso $n \geq 1$  temos o teorema c
 
 ## Prova por indução
 Temos um caso base, onde que vamos mostrar que o teorema é verdadeiro para o primeiro valor da sequência a ser considerada.
-Uma vez demonstrado o caso base, temos o p
+Uma vez demonstrado o caso base, temos o passo indutivo, onde o mesmo tem 3 sub componentes.
+1) Hipótese indutiva: o que vai ser assumido como verdadeiro (que o teorema é válido para um dado valor $n$)
+2) Tese: O que quer ser provado, demonstrado, ou validado.
