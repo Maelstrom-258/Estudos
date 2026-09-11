@@ -7,11 +7,10 @@ $$
 1 + 3 &= 4 \\
 1 + 3 + 5 &= 9 \\
 1 + 3 + 5 + 7 &= 16 \\
-1 + 3 + 5 + 7 + 9 &= 25
+1 + 3 + 5 + 7 + 9 &= 25 \\
+...
 \end{aligned}
-
 $$
-$$$$
 Não temos nenhuma forma de **garantir** que a soma dos primeiros n números ímpares seja $n^2$ .
 
 Então, como que provaríamos o fato?
@@ -27,5 +26,5 @@ $n^2$
 Chegamos a conclusão de que o teorema é sim verdadeiro para o caso aonde $n = 1$
 Se o teorema for verdadeiro para $n-1$, ele também será verdadeiro para $n$ .
 
-Dessa forma, pode-se provar que para qualquer caso $n$ temos o teorema como verdadeiro.
+Dessa forma, pode-se provar que para qualquer caso $n >= 1$  temos o teorema como verdadeiro.
 
