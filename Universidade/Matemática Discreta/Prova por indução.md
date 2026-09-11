@@ -31,3 +31,6 @@ Se o teorema for verdadeiro para $n-1$, ele também será verdadeiro para $n$ .
 
 Dessa forma, pode-se provar que para qualquer caso $n \geq 1$  temos o teorema como verdadeiro.
 
+## Prova por indução
+Temos um caso base, onde que vamos mostrar que o teorema é verdadeiro para o primeiro valor da sequência a ser considerada.
+Uma vez demonstrado o caso base, temos o p
